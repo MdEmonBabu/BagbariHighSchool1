@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+h2.sclname {
+    background: #15qa1d;
+    margin-right: 24px;
+    border-radius: 2px;
+    font-size: 30px;
+    margin-left: -12px;
+    margin-top: -12px;
+    color: #2b2d2c;
+}
+.bg-danger {
+    border-bottom: 7px solid green;
+    background: #aad7ff;
+}
+.bg-danger {
+    background-color: #aad7ff !important;
+}
+
+.menulist{
+    background: rgb(255, 0, 0);
+}
+.menulist ul{
+display: flex;
+}
+
+
+ul.menulist li {
+    display: inline-flex;
+}
+section.header {
+    background: #dee2e6;
+}
+.w-100 {
+    width: 100%;
+    height: 450px;
+}
+
+.primarymenu ul li {
+    display: inline-block;
+    padding: 10px;
+    border-right: 1px solid #ddd;
+    color: white;
+}
+
+.primarymenu ul {
+    background: #fafafa;
+}
+div#navbarSupportedContent {
+    background: #7718bf;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    border-bottom: 10px solid green;
+}
+
+
+
+.primarymenu ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+
+
+ul.ullist li.lilist1 a {
+    color: #FF6600;
+
+}
+li.lilist1:hover {
+    background: #f9d25e;
+    transition: 0.3s;
+}
+
+
+ul.ullist li.lilist2 a {
+    color: #C40A2A;
+}
+li.lilist2:hover {
+    background: #f3c6c6;
+    transition: 0.3s;
+}
+
+
+
+ul.ullist li.lilist3 a {
+    color: #84154D;
+}
+li.lilist3:hover {
+    background: #ff6767;
+    transition: 0.3s;
+}
+
+
+ul.ullist li.lilist4 a {
+    color: #098346;
+}
+li.lilist4:hover {
+    background: #3fd9e8;
+    transition: 0.3s;
+}
+
+ul.ullist li.lilist5 a {
+    color: #8768DE;
+}
+
+li.lilist5:hover {
+    background: #cfcfef;
+    transition: 0.3s;
+}
+
+ul.ullist li.lilist6 a {
+    color:#8768DE;
+}
+li.lilist6:hover {
+    background: #0e0e0b;
+    transition: 0.3s;
+}
+
+
+ul.ullist li.lilist7 a {
+    color: orange;
+}
+li.lilist7:hover {
+    background: #0d62d4;
+    transition: 0.3s;
+}
+
+
+ul.ullist li.lilist8 a {
+    color:  #333;
+}
+li.lilist8:hover {
+    background: #bfbffb;
+    transition: 0.3s;
+}
+
+ul.ullist li.lilist9 a {
+    color: pink;
+}
+li.lilist9:hover {
+    background: #ff0b0b;
+    transition: 0.3s;
+}
+
+
+ul.ullist li.lilist10 a {
+    color: blue;
+}
+li.lilist10:hover {
+    background: #0dcaf0;
+    transition: 0.3s;
+}
+
+
+i.fa.fa-home {
+    font-size: 26px;
+    border-right: 1px dotted #ccc;
+    padding: 9px;
+    color: #333;
+}
+
+h1.emon1 {
+    color: #16d8ff;
+}
+
+h1.emon2 {
+    color: #5b169c;
+}
+
+h1.emon3 {
+    color: #e95592;
+}
+
+
+
+
+
+.col-md-5 img {
+    width: 100%;
+}
+.col-md-7 img {
+   
+    width: 100%;
+}
+
+.col-md-5 h2 {
+    text-align: center;
+    background: #0dcaf0;
+    margin-right: 59px;
+    border-radius: 10px;
+    color: white;
+}
+.col-md-7 marquee {
+    font-size: 22px;
+}
+
+button.btn.btn-outline-success {
+    color: white;
+}
+
